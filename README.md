@@ -57,7 +57,8 @@
 ---
 ## 🐍 Minhas Contribuições
 
-<img src="https://raw.githubusercontent.com/Mateus97lima/Mateus97lima/output/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mateus97lima/Mateus97lima/output/snake.svg" alt="Snake animation" />
+
 
 
 
