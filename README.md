@@ -57,7 +57,8 @@
 ---
 ## 🐍 Minhas Contribuições
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mateus97lima/Mateus97lima/output/snake.svg" alt="Snake animation" />
+
 
 ![Snake animation dark](https://github.com/Mateus97lima/Mateus97lima/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake animation light](https://github.com/Mateus97lima/Mateus97lima/blob/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
