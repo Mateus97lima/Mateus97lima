@@ -61,7 +61,7 @@
 
 
 ![Snake animation dark](https://github.com/Mateus97lima/Mateus97lima/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation light](https://github.com/Mateus97lima/Mateus97lima/blob/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
+
 
 
 > 💬 “Código limpo é como poesia — fácil de ler, difícil de esquecer.”  
