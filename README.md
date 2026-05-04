@@ -45,7 +45,9 @@
 - React Avançado ⚛️  
 - Tailwind CSS 💨  
 - Animações com Framer Motion 🎬  
-- Next.js 🧩  
+- Next.js 🧩
+- Nest.js
+- Java
 
 ---
 
